@@ -28,7 +28,7 @@
     "vue-router": "latest"
   },
   "engines": {
-    "node": "21.x"
+    "node": "19.x"
   },
   "devDependencies": {
     "@types/node": "^22.15.21"
